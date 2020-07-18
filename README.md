@@ -1,5 +1,4 @@
-# Curso_de_python
-
+# Curso_de_python e Git
 
 > __Como contribuir__
 ```
